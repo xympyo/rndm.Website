@@ -106,7 +106,7 @@ body {
     letter-spacing: 0rem;
   }
   10% {
-    letter-spacing: 1rem;
+    letter-spacing: 0;
   }
   20% {
     letter-spacing: 0.75rem;
@@ -129,6 +129,7 @@ body {
   80% {
     letter-spacing: 1.5rem;
   }
+  90%,
   100% {
     letter-spacing: 0rem;
   }
